@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533899246 source:h:\c workspace\2darraypassing\main.c
+	<stdio.h>
+	<stdlib.h>
+
